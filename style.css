@@ -1,0 +1,26 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.textofooter {
+
+  font-size: small;
+
+}
+
+.lifooter {
+
+  display: inline;
+
+}
+
+
+.uldobotao {
+  display: flex;
+  margin: 32px;
+}
